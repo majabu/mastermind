@@ -119,8 +119,5 @@ class Mastermind
   end
 end
 
-
-
-
 game = Mastermind.new
 game.start
