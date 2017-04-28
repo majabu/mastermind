@@ -1,4 +1,7 @@
 # mastermind
+#### 1.Download the file.
+
+#### 2.Start the game by typing "ruby mastermind.rb" in your terminal.
 Mastermind game clone, written in Ruby.
 
 Rules:
